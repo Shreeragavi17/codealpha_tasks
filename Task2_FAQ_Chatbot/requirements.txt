@@ -1,0 +1,9 @@
+# Streamlit - used for building the web-based chatbot UI
+streamlit
+
+# Scikit-learn - used for NLP processing (TF-IDF Vectorization) and cosine similarity matching
+scikit-learn
+
+# NLTK (Natural Language Toolkit) - optional NLP library for text preprocessing (tokenization, stopwords, etc.)
+# Included for potential NLP enhancements
+nltk
